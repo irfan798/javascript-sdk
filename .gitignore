@@ -31,8 +31,8 @@ tests-ledger/buffer-polyfill.js
 /build
 
 # build result
-/lib
-/typings
+#/lib
+#/typings
 
 # editor
 /.vscode
